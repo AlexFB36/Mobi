@@ -45,7 +45,16 @@
     "publishChangesOnly": false,
     "uniqCompNum": 0,
     "versionPublish": "5.3.0",
-    "imageResize": true
+    "imageResize": true,
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "jessicahoma",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
